@@ -1,14 +1,10 @@
 
 
-
-getInfo = () => {
-
-    fetch('../..data/restaurants.json')
-        .then(response => 
-            response.json())
-        .then(myJson => {
-            console.log(myJson);
-        });
-};
-
+fetch('')
+.then(function(response) {
+  return response.json();
+})
+.then(function(myJson) {
+  console.log(myJson);
+});
 
