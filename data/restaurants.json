@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Restaurante Oriental Kuo Wha",
+        "address": "Av. Paseo de la República 5046, Miraflores 15047",
+        "opening hours": "De lunes a sábado desde las 12:30h hasta las 23:00h y domingos de 12:30h a 16:30h",
+        "phone": " (01) 4459482",
+        "type": "Oriental",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Wa Lok",
+        "address": "Av. Angamos Oeste 700, Miraflores 15074",
+        "opening hours": "De lunes a domingo desde las 12:00h hasta las 23:00h",
+        "phone": "(01) 4471314",
+        "type": "Oriental",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Chifa Internacional",
+        "address": "Avenida República de Panamá, San Antonio 5915, Miraflores, Lima 15048",
+        "opening hours": "De lunes a domingo desde las 12:30h hasta las 23:30h",
+        "phone": "(01) 4448757",
+        "type": "Oriental",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Comida Japonesa Fuji",
+        "address": "Av. Paseo de la República 4084, Miraflores Lima 18",
+        "opening hours": "De martes a domingo desde las 12:00h hasta las 23:00h, cerrado los lunes",
+        "phone": "(01) 4408531",
+        "type": "Oriental",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Salon de la felicidad",
+        "address": "Paruro 795, Cercado de Lima 15001",
+        "opening hours": "De lunes a domingo desde las 9:00h hasta las 23:00h",
+        "phone": "(01) 4262190",
+        "type": "Oriental",
+        "district": "Cercado de Lima"
+    },
+    {
+        "name": "Chun Koc Sen S.A.",
+        "address": "Paruro 890, Cercado de Lima 15001",
+        "opening hours": "De lunes a domingo desde las 9:00h hasta las 23:00h",
+        "phone": "(01) 4274765",
+        "type": "Oriental",
+        "district": "Cercado de Lima"
+    },
+    {
+        "name": "Trattoria Don Vito",
+        "address": "Martin Dulanto Street, San Antonio 111, Miraflores, Lima 18",
+        "opening hours": "De lunes a domingo desde las 12:30h hasta las 00:00h",
+        "phone": "(01) 4458156",
+        "type": "Italiana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Donatello",
+        "address": "Calle José Galvez 390, Miraflores 15074",
+        "opening hours": "De lunes a sábado desde las 12:00h hasta las 19:00h y domingos de 12:00h a 22:00h",
+        "phone": "(01) 4458047",
+        "type": "Italiana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Rigoletto Lima",
+        "address": "Calle Colón 161, Miraflores 15074",
+        "opening hours": "De lunes a sábado desde las 12:00h hasta las 23:00h, cerrado los domingos",
+        "phone": "981 483 975",
+        "type": "Italiana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Il Piccolo Pomodoro",
+        "address": "Av. Caminos del Inca 1473, Lima 15039",
+        "opening hours": "De lunes a domingo desde las 12:30h hasta las 23:30h",
+        "phone": "(01) 2755355",
+        "type": "Italiana",
+        "district": "Surco"
+    },
+    {
+        "name": "La Piccolina Tratoria",
+        "address": "Simón Salguero 602, Lima 15048",
+        "opening hours": "De lunes a domingo desde las 12:30h hasta las 23:30h",
+        "phone": "(01) 2736005",
+        "type": "Italiana",
+        "district": "Surco"
+    },
+    {
+        "name": "Antica Trattoria",
+        "address": "201, Av San Martin, Barranco 15063",
+        "opening hours": "De lunes a domingo desde las 12:00h hasta las 00:00h",
+        "phone": "(01) 2473443",
+        "type": "Italiana",
+        "district": "Barranco"
+    },
+    {
+        "name": "Taqueria No Te Rajes",
+        "address": "Av. Alfredo Benavides 1083, Miraflores, Lima 15047",
+        "opening hours": "De lunes a domingo desde las 12:00h hasta las 00:00h",
+        "phone": "959 511 813",
+        "type": "Mexicana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "El Mexicano Tacos & Burritos",
+        "address": "Calle Manuel Bonilla 248, Miraflores 15074",
+        "opening hours": "De lunes a domingo desde las 12:00h hasta las 23:00h",
+        "phone": " (01) 5302997",
+        "type": "Mexicana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "El Rincón de Siempre",
+        "address": "Nicolas de Pierola 215, Barranco 15063",
+        "opening hours": "De martes a sabado desde las 12:00h hasta las 00:00h, los domingos de 12:00h a 19:00h, cerrado los lunes",
+        "phone": "(01) 4887794",
+        "type": "Mexicana",
+        "district": "Barranco"
+    },
+    {
+        "name": "Burrito Bar",
+        "address": "Av. Almte. Miguel Grau 113, Barranco 15063",
+        "opening hours": "De martes a sabado desde las 13:00h hasta las 23:00h, los domingos de 13:00h a 17:00h, cerrado los lunes",
+        "phone": "965 276 864",
+        "type": "Mexicana",
+        "district": "Barranco"
+    },
+    {
+        "name": "Taco Naco",
+        "address": "Av. Alejandro Velasco Astete 2024, Santiago de Surco 15039",
+        "opening hours": "De lunes a sábado desde las 12:00h hasta las 23:00h, cerrado los domingos",
+        "phone": "(01) 2730425",
+        "type": "Mexicana",
+        "district": "Surco"
+    },
+    {
+        "name": "El Torito",
+        "address": "Av. Gral. Eugenio Garzón 1685, Cercado de Lima 15072",
+        "opening hours": "De lunes a sábado desde las 13:00h hasta las 22:00h, cerrado los domingos",
+        "phone": "(01) 4609924",
+        "type": "Mexicana",
+        "district": "Cercado de Lima"
+    },
+    {
+        "name": "Panchita - Miraflores",
+        "address": "Calle 2 de Mayo 298, Miraflores 15074",
+        "opening hours": "De lunes a sábado desde las 12:00h hasta las 00:00h y domingos de 12:00h a 18:00h",
+        "phone": "(01) 2425957",
+        "type": "Criolla",
+        "district": "Miraflores"
+    },
+    {
+        "name": "El Embrujo",
+        "address": "Calle Berlin 536, Miraflores 18",
+        "opening hours": "De lunes a viernes desde las 00:00h hasta las 16:00h, cerrado los sábados y domingos",
+        "phone": "(01) 4934597",
+        "type": "Criolla",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Restaurant La Plaza de Surco",
+        "address": "Saenz Peña 211, Santiago de Surco 15049",
+        "opening hours": "De lunes a domingo desde las 12:00h hasta las 17:00h",
+        "phone": "(01) 4776028",
+        "type": "Criolla",
+        "district": "Surco"
+    },
+    {
+        "name": "El Rocoto",
+        "address": "Av. Aviación 4907, Santiago de Surco 15038",
+        "opening hours": "De lunes a sábado desde las 12:30h hasta las 17:00h y domingos de 9:00h a 17:00h",
+        "phone": "(01) 4483040",
+        "type": "Criolla",
+        "district": "Surco"
+    },
+    {
+        "name": "Sunqu Sabor Criollo",
+        "address": "Av. Guardia Civil Sur Mz. A Lt. 1 00033, Santiago de Surco 15056",
+        "opening hours": "De lunes a domingo desde las 12:30h hasta las 00:00h",
+        "phone": "(01) 3960402",
+        "type": "Criolla",
+        "district": "Surco"
+    },
+    {
+        "name": "El Encuentro Otani",
+        "address": "Jiron los Titanes 182, Distrito de Chorrillos 15056",
+        "opening hours": "De lunes a domingo desde las 11:30h hasta las 17:00h",
+        "phone": "(01) 4670475",
+        "type": "Criolla",
+        "district": "Chorrillos"
+    },
+    {
+        "name": "Restaurant Tai-i Vegetariano",
+        "address": "Av. Petit Thouars 5232, Miraflores 15074",
+        "opening hours": "De lunes a sábado desde las 12:00h hasta las 17:00h, cerrado los domingos",
+        "phone": "(01) 4444625",
+        "type": "Vegetariana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Sabor y Vida",
+        "address": "Calle Gral Recavarren 156, Miraflores Lima 18",
+        "opening hours": "De lunes a sábado desde las 9:00h hasta las 20:00h y los domingos de 9:00h a 16:30h",
+        "phone": "(01) 4451447",
+        "type": "Vegetariana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Restaurant Vegetariano SAYEL",
+        "address": "Calle Cantuarias 285, Miraflores 15074",
+        "opening hours": "De lunes a sábado desde las 11:30h hasta las 17:30h, cerrado los domingos",
+        "phone": "(01) 4456503",
+        "type": "Vegetariana",
+        "district": "Miraflores"
+    },
+    {
+        "name": "Veggie Pizza",
+        "address": "Jr. Colina 112, Barranco",
+        "opening hours": "De lunes a miércoles y domingo desde las 12:00h hasta las 22:30h y de jueves a sábado de 12:00h a 23:30h",
+        "phone": "(01) 2475963",
+        "type": "Vegetariana",
+        "district": "Barranco"
+    },
+    {
+        "name": "Germinando Vida",
+        "address": "Av. Almte. Miguel Grau 209A, Barranco 15063",
+        "opening hours": "De lunes a sábado desde las 10:00h hasta las 22:00h y domingos de 10:00h a 17:00h",
+        "phone": "(01) 2704767",
+        "type": "Vegetariana",
+        "district": "Barranco"
+    },
+    {
+        "name": "Manantial Restaurant Vegetariano",
+        "address": "Jirón Carabaya 409, Cercado de Lima 15001",
+        "opening hours": "De lunes a sábado desde las 10:00h hasta las 16:50h, cerrado los domingos",
+        "phone": "(01) 4262960",
+        "type": "Vegetariana",
+        "district": "Cercado de Lima"
+    }          
+]
