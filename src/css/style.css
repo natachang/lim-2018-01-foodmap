@@ -1,0 +1,59 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Karma", sans-serif
+}
+
+.w3-bar-block .w3-bar-item {
+    padding: 20px
+}
+
+.first-div {
+  margin-top: 15%;
+}
+
+.types-food {
+
+  margin: 10% 0 0 35%;
+  background: rgb(0,0,0, 0.07);
+  border: lightgray;
+  border-radius: 2px;
+  font-size: 25px;
+  width: 35%;
+}
+
+
+.size {
+
+  font-size: 35px;
+}
+
+
+.modal button {
+  float: right;
+  position: relative;
+  top: 40%;
+}
+
+.btn-modal {
+  font-size: 15px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+  font-family: 'Montserrat';
+  background-color: #FDD238;
+}
+
+.btn-modal:hover {
+  font-size: 15px;
+  border: 1px solid #FF7174;
+  text-align: center;
+  color: #ffffff;
+  background-color: #FF7174;
+}
