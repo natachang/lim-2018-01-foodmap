@@ -13,12 +13,10 @@ fetch('../data/restaurantsInfo.json')
 const showRestaurants = (name, address, openingHours, phone, type, district, image) => {
     let print = '';
     print += `
-
         <div class="w3-quarter">
-          <img src="${image}" alt="plate" style="width:100%">
+          <img class="imagen w3-card" src="${image}" alt="plate" style="width:100%">
           <h3>${name}</h3>
-        </div>
-    
+        </div>      
     `;
     contentFood.innerHTML += print;
 };

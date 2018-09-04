@@ -1,3 +1,5 @@
+
+
 body,
 h1,
 h2,
@@ -5,12 +7,24 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Karma", sans-serif
+    font-family: "Karma", sans-serif 
 }
 
 .w3-bar-block .w3-bar-item {
-    padding: 20px
+    padding: 20px;
 }
+
+header {
+width: 100%;
+height: 300px;
+background: greenyellow;
+}
+
+ header h1{
+  padding: 1.5% 0 0 3%;
+  font-size: 50px;
+  color: white;
+} 
 
 .first-div {
   margin-top: 15%;
@@ -18,8 +32,8 @@ h6 {
 
 .types-food {
 
-  margin: 10% 0 0 35%;
-  background: rgb(0,0,0, 0.07);
+  margin: 7% 0 0% 35%;
+  background: rgb(0,0,0, 0.08);
   border: lightgray;
   border-radius: 2px;
   font-size: 25px;
@@ -33,27 +47,10 @@ h6 {
 }
 
 
-.modal button {
-  float: right;
-  position: relative;
-  top: 40%;
-}
 
-.btn-modal {
-  font-size: 15px;
-  border: 1px solid #ffffff;
-  border-radius: 5px;
-  text-align: center;
-  color: black;
-  margin-bottom: 30px;
-  font-family: 'Montserrat';
-  background-color: #FDD238;
-}
 
-.btn-modal:hover {
-  font-size: 15px;
-  border: 1px solid #FF7174;
-  text-align: center;
-  color: #ffffff;
-  background-color: #FF7174;
+.imagen {
+  height: 200px;
+  line-height: 200px;
+  
 }
